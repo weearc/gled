@@ -13,7 +13,7 @@ import (
 
 const (
 	vendorId          = 0x046d // Logitech, Inc.
-	productId         = 0xc084 // G102 and G203 Prodigy Gaming Mouse
+	productId         = 0xc092 // G102 and G203 Prodigy Gaming Mouse
 	format            = "11ff0e%s000000000000"
 	defaultRate       = 10000
 	defaultBrightness = 100
